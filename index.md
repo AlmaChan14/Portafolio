@@ -1,12 +1,10 @@
-## Portfolio
+## Portafolio de Evidencias
 
 ---
 
-### Category Name 1 
-
 [Desarrollo de
 videojuegos en 3D](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Huellitas.jpg?raw=true"/>
 
 ---
 [Elaboración de sitios web](/pdf/sample_presentation.pdf)
@@ -15,10 +13,6 @@ videojuegos en 3D](/sample_page)
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
----
 
 
 
