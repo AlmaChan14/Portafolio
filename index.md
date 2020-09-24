@@ -4,7 +4,7 @@
 
 [Desarrollo de
 videojuegos en 3D](/sample_page)
-<img src="images/juegos.jpg?raw=true"/>
+<img src="images/Juegos.jpg?raw=true"/>
 
 ---
 [Elaboración de sitios web](/pdf/sample_presentation.pdf)
