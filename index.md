@@ -2,7 +2,12 @@
 
 ---
 
-[Proyecto1 - Desarrollo de
+[Proyecto1 - Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Proyecto2 - Desarrollo de
 videojuegos en 3D](/sample_page)
 
 Tuve la oportunidad de participar en la elaboración del desarrollo de
@@ -12,12 +17,15 @@ videojuego en 3D utilizando Unity
 <img src="images/Juegos.jpg?raw=true"/>
 
 ---
-[Proyecto2 - Elaboración de sitios web](/pdf/sample_presentation.pdf)
+[Proyecto3 - Elaboración de sitios web](/pdf/sample_presentation.pdf)
+
+Participé en la elaboración de un proyecto de un
+sitio web con altas, bajas, cambios y un sistema de
+login utilizando Laravel.
+
 <img src="images/Huellitas.jpg?raw=true"/>
 
----
-[Proyecto3 - Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 
