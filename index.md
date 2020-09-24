@@ -4,11 +4,11 @@
 
 [Desarrollo de
 videojuegos en 3D](/sample_page)
-<img src="images/Huellitas.jpg?raw=true"/>
+<img src="images/juegos.jpg?raw=true"/>
 
 ---
 [Elaboración de sitios web](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Huellitas.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
