@@ -2,16 +2,25 @@
 
 ---
 
-[Desarrollo de
+[Proyecto1 - Desarrollo de
 videojuegos en 3D](/sample_page)
+
+<br>
+
+Tuve la oportunidad de participar en la elaboración del desarrollo de
+videojuegos para dispositivos móviles y un
+videojuego en 3D utilizando Unity
+
+<br>
+
 <img src="images/Juegos.jpg?raw=true"/>
 
 ---
-[Elaboración de sitios web](/pdf/sample_presentation.pdf)
+[Proyecto2 - Elaboración de sitios web](/pdf/sample_presentation.pdf)
 <img src="images/Huellitas.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Proyecto3 - Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
