@@ -8,7 +8,7 @@
 ---
 
 [Proyecto2 - Desarrollo de
-videojuegos en 3D](https://almachan14.github.io/DesarrolloVideojuegos/index.html)
+videojuegos en 3D](/DesarrolloVideojuegos/index.html)
 
 Tuve la oportunidad de participar en la elaboración del desarrollo de
 videojuegos para dispositivos móviles y un
