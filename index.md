@@ -8,7 +8,7 @@
 ---
 
 [Proyecto2 - Desarrollo de
-videojuegos en 3D](/DesarrolloVideojuegos/index.html)
+videojuegos en 3D](/DesarrolloVideojuegos/)
 
 Tuve la oportunidad de participar en la elaboración del desarrollo de
 videojuegos para dispositivos móviles y un
@@ -17,7 +17,7 @@ videojuego en 3D utilizando Unity
 <img src="images/Juegos.jpg?raw=true"/>
 
 ---
-[Proyecto3 - Elaboración de sitios web](/pdf/sample_presentation.pdf)
+[Proyecto3 - Elaboración de sitios web](/VeterinariaHuellitas/)
 
 Participé en la elaboración de un proyecto de un
 sitio web con altas, bajas, cambios y un sistema de
