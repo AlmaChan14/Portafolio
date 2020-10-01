@@ -19,9 +19,7 @@ videojuego en 3D utilizando Unity
 ---
 [Proyecto3 - Elaboración de sitios web](/VeterinariaHuellitas/)
 
-Participé en la elaboración de un proyecto de un
-sitio web con altas, bajas, cambios y un sistema de
-login utilizando Laravel.
+Primer proyecto integrador, elaboración del primer sitio web, utilizando HTML y PHP crudo.
 
 <img src="images/Huellitas.jpg?raw=true"/>
 
